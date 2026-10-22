@@ -1,0 +1,17 @@
+[project]
+name = "git-py"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "kageyama-sha3", email = "s25c1025tx@chibatech.ac.jp" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+git-py = "git_py:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
