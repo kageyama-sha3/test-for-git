@@ -11,4 +11,4 @@ x = 0
 for line in sys.stdin:
     x += tonum(line)
 
-print(x) #uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+print(x) #変更してやるんごねぇ...
