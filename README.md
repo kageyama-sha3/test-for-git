@@ -1,4 +1,4 @@
-# plusコマンド
+#plusコマンド
 ![test](https://github.com/kageyama-sha3/robosys2026/actions/workflows/test.yml/badge.svg)
 ↑ テスト結果を反映したバッジの画像が埋め込まれる（<ユーザ名>は各自変更を）
 
@@ -15,5 +15,5 @@
 
 ## ライセンス
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
-- © 2026 Taro Suzuki
+- © 2026 Yakumo Kageyama
 
